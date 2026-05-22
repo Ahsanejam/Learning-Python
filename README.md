@@ -20,3 +20,5 @@ any other ai like chatgpt or claude or grok to give me exerisces or project of t
 where we can use all the topic what i learn in the project so they can give me idea of how things work
 
 # So I start learning and I will inform you every day what i learn
+So I start for documentation then we build project so i see in documentation there is not any exersice or project 
+So i decide to first learn any topic then ask ai for projects that is the good way of learning
