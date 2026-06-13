@@ -23,4 +23,4 @@ where we can use all the topic what i learn in the project so they can give me i
 So I start for documentation then we build project so i see in documentation there is not any exersice or project 
 So i decide to first learn any topic then ask ai for projects that is the good way of learning
 
-I don't really understand documentation because of you know not exersices project so i swich to learning from books
+I don't really understand documentation because of you know not exersices project so i swich to learning from books...
