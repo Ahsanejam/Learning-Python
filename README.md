@@ -25,4 +25,4 @@ So i decide to first learn any topic then ask ai for projects that is the good w
 
 I don't really understand documentation because of you know not exersices project so i swich to learning from books
 I take break  little bit from study but then i break consistency and it is very difficult to 
-consistent again.....
+consistent again
