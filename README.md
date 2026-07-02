@@ -29,3 +29,5 @@ consistent again .....
 
 
 # I start learn about Variables and Data  Types
+I start learning something like Variables and String Data types i write some program learn about 
+spacing fstring and give variable some value 
