@@ -33,6 +33,12 @@
 
 # Adding Whitespace to Strings with Tabs or Newlines
 
-print("Python")
-print("\tPython")
+# print("Python")
+# print("\tPython")
 
+# Output 
+
+# Python
+#         Python
+
+print("Languages:\nPython\nC\nJavaScript")
