@@ -31,3 +31,9 @@ consistent again .....
 # I start learn about Variables and Data  Types
 I start learning something like Variables and String Data types i write some program learn about 
 spacing fstring and give variable some value 
+
+# Numbers Floating and Integers
+I learn about number intergers and Float in python like how to use it and how it behave and how to use in calculations
+
+# Lists 
+and also learn about lists like how to store multiple data in a single variable and how to access them how to print them etc...
