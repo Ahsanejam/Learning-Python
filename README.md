@@ -37,3 +37,6 @@ I learn about number intergers and Float in python like how to use it and how it
 
 # Lists 
 and also learn about lists like how to store multiple data in a single variable and how to access them how to print them etc...
+
+So I learn about new this like how to change value in list append remove functions how to delete value in lists del pop
+and length function accessing removing etc...
