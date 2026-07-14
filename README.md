@@ -40,3 +40,8 @@ and also learn about lists like how to store multiple data in a single variable 
 
 So I learn about new this like how to change value in list append remove functions how to delete value in lists del pop
 and length function accessing removing etc...
+
+# Loops is Lists
+I working on Lists and I learn how to use for loop in Lists to print all the value inside the lists and print different statements 
+and also learning about indentation and erros 
+
