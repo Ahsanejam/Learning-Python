@@ -44,4 +44,5 @@ and length function accessing removing etc...
 # Loops is Lists
 I working on Lists and I learn how to use for loop in Lists to print all the value inside the lists and print different statements 
 and also learning about indentation and erros .....
-
+basicallly  print all the lists data using loops 
+one by one 
